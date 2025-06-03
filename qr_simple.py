@@ -1,5 +1,7 @@
 import qrcode
-
+# qr_simple.py
+# Teek: qrcode
+# Kirjeldus: loob lihtsa QR-koodi Wikipedia lingile ja salvestab selle pildina
 
 data = "https://www.wikipedia.org"
 qr = qrcode.make(data)
