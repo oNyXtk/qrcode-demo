@@ -1,6 +1,8 @@
 import qrcode
 
-# Custom QR for ChatGPT
+# qr_custom.py
+# Teek: qrcode
+# Kirjeldus: loob kohandatud QR-koodi (suurus, servad, värv, veaparandus)
 qr = qrcode.QRCode(
     version=2,
     error_correction=qrcode.constants.ERROR_CORRECT_H,
