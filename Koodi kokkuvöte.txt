@@ -1,0 +1,16 @@
+Lühike selgitus teegi kohta:
+qrcode on teek, mis aitab kiiresti luua QR-koode tekstist, URLidest või muudest andmetest.
+
+Teek on kasulik turunduses, digitaalses ligipääsus või ka lihtsalt linkide mugavamaks jagamiseks.
+
+Milleks see sobib:
+Plakatid, üritused, koolis lingi jagamine
+
+WiFi paroolide visuaalne kuvamine
+
+Teksti ja linkide jagamine füüsilises maailmas
+
+Mis oli minu jaoks lihtne või keeruline:
+Lihtne: Teegi kasutuselevõtt ja esimese QR-koodi loomine olid väga lihtsad. qrcode.make() töötab otse ja ilma keerukuseta.
+
+Keeruline: Kohandatud seadete (nt version, error_correction) tähendus oli alguses ebaselge, kuid dokumentatsioon aitas sellest aru saada.
